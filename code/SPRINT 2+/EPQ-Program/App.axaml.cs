@@ -1,10 +1,10 @@
 using Avalonia;
 using Avalonia.Controls.ApplicationLifetimes;
 using Avalonia.Markup.Xaml;
-using EPQ_Sprint_1.ViewModels;
-using EPQ_Sprint_1.Views;
+using EPQ_Program.ViewModels;
+using EPQ_Program.Views;
 
-namespace EPQ_Sprint_1;
+namespace EPQ_Program;
 
 public partial class App : Application
 {

@@ -1,7 +1,7 @@
 ﻿using Avalonia;
 using System;
 
-namespace EPQ_Sprint_1;
+namespace EPQ_Program;
 
 sealed class Program
 {

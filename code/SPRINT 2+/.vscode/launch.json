@@ -1,0 +1,11 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Avalonia: EPQ-Program",
+            "type": "dotnet",
+            "request": "launch",
+            "projectPath": "${workspaceFolder}/EPQ-Program/EPQ-Program.csproj"
+        }
+    ]
+}

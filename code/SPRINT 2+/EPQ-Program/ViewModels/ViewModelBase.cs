@@ -1,6 +1,6 @@
 ﻿using CommunityToolkit.Mvvm.ComponentModel;
 
-namespace EPQ_Sprint_1.ViewModels;
+namespace EPQ_Program.ViewModels;
 
 public abstract class ViewModelBase : ObservableObject
 {

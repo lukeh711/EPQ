@@ -2,9 +2,9 @@ using System;
 using System.Diagnostics.CodeAnalysis;
 using Avalonia.Controls;
 using Avalonia.Controls.Templates;
-using EPQ_Sprint_1.ViewModels;
+using EPQ_Program.ViewModels;
 
-namespace EPQ_Sprint_1;
+namespace EPQ_Program;
 
 /// <summary>
 /// Given a view model, returns the corresponding view if possible.
